@@ -1,2 +1,2 @@
 # candy-catalog.php
-http://dirbeer203.c1.biz/candy-catalog
+Source of http://dirbeer203.c1.biz/candy-catalog
