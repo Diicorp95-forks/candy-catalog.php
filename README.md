@@ -2,4 +2,4 @@
 Source of simple web application.<br>
 See it in action [here](http://dirbeer203.c1.biz/candy-catalog).
 
-©️ Diicorp95. Licensed under [MIT license](https://diicorp95.mit-license.org).
+©️ Diicorp95, 2021. Licensed under [MIT license](https://diicorp95.mit-license.org).
