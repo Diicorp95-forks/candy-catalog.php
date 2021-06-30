@@ -296,6 +296,7 @@ if (isset($_GET['flavor'])) {
 			email_follow(addrs[which-1]);
 		}
 	</script>
+	<a class="darkbg" href="https://github.com/Diicorp95/candy-catalog.php">Исходный код</a><br>
 	<div class="iml"><img class="iml" src="http://diicorp95.neonarod.com/1.gif" alt="Yandex Mail" onclick="javascript:email2(1)"></div><!--
 	--><div class="iml"><img class="iml" src="http://diicorp95.neonarod.com/2.gif" alt="Disroot.org Mail" onclick="javascript:email2(2)"></div><br>
 <?php
@@ -334,7 +335,7 @@ $tz = 'Europe/Moscow';
 $timestamp = time();
 $dt = new DateTime("now", new DateTimeZone($tz));
 $dt->setTimestamp($timestamp);
-echo $dt->format('H:i:s');	
+echo $dt->format('H:i:s');
 ?> (GMT+3)<br>
 	Страница загружена за <?php
 echo (round(((hrtime(true) - $load_time_start) * 0.001),1,PHP_ROUND_HALF_ODD));
