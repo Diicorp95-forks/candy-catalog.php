@@ -3,9 +3,9 @@
 /**
  * Source of simple web application in Russian language. Made by fun, for fun.
  *
- * @author		Larry Holst <larry.holst@disroot.org>
+ * @author	Larry Holst <larry.holst@disroot.org>
  * @copyright	2021 Diicorp95
- * @license		https://Diicorp95.mit-license.org  MIT License
+ * @license	https://Diicorp95.mit-license.org  MIT License
  */
 
 // Timer to 
